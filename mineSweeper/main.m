@@ -2,10 +2,9 @@
 //  main.m
 //  mineSweeper
 //
-//  Created by Ankur Pandey on 10/6/14.
-//  Copyright (c) 2014 ___ANKURPANDEY___. All rights reserved.
+//  Created by Rupan Talwar on 10/6/14.
+//  Copyright (c) 2014 ___RUPANTALWAR___. All rights reserved.
 //
-
 #import <UIKit/UIKit.h>
 
 #import "AppDelegate.h"
